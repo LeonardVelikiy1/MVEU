@@ -36,7 +36,7 @@
           <span>СТУДЕНЧЕСКАЯ<br> ФИРМА</span>
       <p>Колледж креативных индустрий</p>
       <form action="">
-              <button style="position: relative; bottom: 4%; right: 1%; width: 419px;" class="menu_button">Задайте нам вопрос</button>
+              <button style="position: relative; bottom: 4%; right: 1%; width: 419px;" class="menu_button"> <a href="pages/order_form.php" style="text-decoration: none; color:aliceblue;">Задайте нам вопрос</a></button>
       </form>
     </div>
   </div>
@@ -102,7 +102,7 @@
   <p style="font-family: RobotoRegular; font-size: 26px;">ОСТАВЬТЕ ЗАЯВКУ И МЫ СВЯЖЕМСЯ С ВАМИ!</p>
   </div>
     <form action="">
-      <button class="write">Напишите нам</button>
+      <button class="write"> <a href="pages/order_form.php" style="text-decoration: none; color:aliceblue;">Напишите нам</a></button>
     </form>
   </div>
   <div style="height:1040px;" class="container">
@@ -112,31 +112,22 @@
       <div class="review_item">
         <div class="review">
           <!-- <span style=" font-family: OswaldBold;color:#F4914E;font-size:96px;">“</span> -->
-          <p> Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной "рыбой" для
-          текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм
-          шрифтов.</з>
+          <p>Не ожидал такого качества от студентов. Молодцы, уверен, что далеко пойдут и будут еще делать сайты круче, чем у эппл. 
+          </p>
         </div>
         <div class="review_name">Иванов Иван</div>  
       </div>
       <div class="review_item">
         <div class="review">
           <!-- <span style=" font-family: OswaldBold;color:#F4914E;font-size:96px;">“</span> -->
-          <p> Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной
-            "рыбой" для
-            текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и
-            форм
-            шрифтов.</з>
+          <p>Заказывали фотосъемку для своего маленького интернет-магазина. Сделали быстро, качественно, обязательно обратимся еще, приятно, когда к работе подходят с такой ответственностью. Ребятам успехов! .</p>
         </div>
         <div class="review_name">Иванов Иван</div>
       </div>
       <div class="review_item">
         <div class="review">
           <!-- <span style=" font-family: OswaldBold;color:#F4914E;font-size:96px;">“</span> -->
-          <p> Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной
-            "рыбой" для
-            текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и
-            форм
-            шрифтов.</з>
+          <p>Отличная идея доверить студентам простые задачи - и ребята портфолио набирают и нам, заказчикам выгодно. Спасибо всем, кто трудился, остался доволен и сайтом и наполнением</p>
         </div>
         <div class="review_name">Иванов Иван</div>
       </div>
