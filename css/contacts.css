@@ -246,6 +246,7 @@ footer
     text-decoration: none;
     text-align: left;
     color: #000000;
+    width: 130px;
 }
 .copyright {
     height: 41px;

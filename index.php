@@ -210,16 +210,16 @@
         </div>
         <div class="footer_row">
           Информация
-          <a href="">О нас</a>
-          <a href="">Услуги</a>
-          <a href="">Портфолио</a>
-          <a href="">Контакты</a>
+          <a href="#about_us">О нас</a>
+          <a href="pages/services.html">Услуги</a>
+          <a href="pages/portfolio.html">Портфолио</a>
+          <a href="pages/contacts.html">Контакты</a>
         </div>
         <div class="footer_row">
           Услуги
-          <a href="">Дизайн</a>
-          <a href="">Веб-разработка</a>
-          <a href="">Реклама</a>
+          <a href="pages/Design.html">Дизайн</a>
+          <a href="pages/Web-development.html">Веб-разработка</a>
+          <a href="pages/Advertisement.html">Реклама</a>
           <a href=""></a>
         </div>
       </div>

@@ -164,7 +164,7 @@ footer
 {
     position: absolute;
     width: 540px;
-    height: 790px;
+    height: 750px;
     left: 405px;
     top: 464px;
 }
@@ -218,7 +218,7 @@ footer
 {
     position: absolute;
     width: 539px;
-    height: 760px;
+    height: 750px;
     left: 1013px;
     top: 1223px;
 }
@@ -370,7 +370,6 @@ footer
     height: 788px;
     left: 86px;
     top: 3493px;
-    
     background: rgba(244, 145, 78, 0.48);
     filter: blur(350px);
 }
@@ -379,7 +378,7 @@ footer
 {
     position: absolute;
     width: 535px;
-    height: 730px;
+    height: 720px;
     left: 410px;
     top: 3445px;
 }
@@ -482,9 +481,9 @@ footer
 {
     position: absolute;
     width: 500px;
-    height: 731px;
+    height: 650px;
     left: 440px;
-    top: 4891px;
+    top: 4930px;
 }
 
 .Kuznetsov
