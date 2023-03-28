@@ -1,0 +1,54 @@
+@font-face {
+
+    font-family: "NeutralFace";
+    src: url("../fonts/NeutralFace-Bold.otf") format("truetype");
+}
+
+@font-face {
+
+    font-family: "NeutralFaceReg";
+    src: url("../fonts/NeutralFace.otf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "LackRegular";
+    src: url("../fonts/lack_regular.ttf") format("truetype");
+
+}
+
+@font-face {
+    font-family: "OswaldMedium";
+    src: url("../fonts/Oswald-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "RobotoRegular";
+    src: url("../fonts/Roboto-Regular.ttf") format("truetype");
+
+}
+
+@font-face {
+    font-family: "RobotoMedium";
+    src: url("../fonts/Roboto-Medium.ttf") format("truetype");
+
+}
+@font-face {
+    font-family: "OswaldBold";
+    src: url("../fonts/Oswald-Bold.ttf") format("truetype");
+
+}
+@font-face {
+    font-family: "ManropeRegular";
+    src: url("../fonts/Manrope-Regular.ttf") format("truetype");
+
+}
+@font-face {
+    font-family: "Source Sans Pro";
+    src: url("../fonts/SourceSansPro-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Source Sans Pro Light";
+    src: url("../fonts/SourceSansPro-Light.ttf") format("truetype");
+}

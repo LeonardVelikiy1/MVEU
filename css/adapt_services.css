@@ -1,0 +1,255 @@
+@media only screen and (max-width: 1200px) {
+    .wrapper
+    {
+        max-width: 1200px;
+    }
+
+    .header
+    {
+        height: 155px;
+        max-width: 1200px;
+    }
+
+    .logo
+    {
+        width: 60px;
+        height: 60px;
+        margin-left: 40px;
+        margin-top: 14px;
+        position: relative;
+    }
+
+    .menu
+    {
+        display: flex;
+        height: 155px;
+        max-width: 1200px;
+    }
+
+    .menu > div:nth-child(1),
+    .menu > div:nth-child(2)
+    {
+        height: 155px;
+    }
+
+    .menu > div:nth-child(1)
+    {
+        width: 330px;
+        font-family:"NeutralFace";
+        font-size: 60px;
+        color:#1B1FA1;
+        margin-top: 40px;
+    }
+
+    .menu > div:nth-child(2)
+    {
+        width: 870px;
+        margin-left: 0px;
+        background-image: url("../images/menu.png");
+        background-repeat: no-repeat;
+        padding-top: 50px;
+    }
+
+    .menu > div:nth-child(2) > a:nth-child(1)
+    {
+        margin-left: 40px;
+    }
+
+    .menu > div:nth-child(2) > button
+    {
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+
+    .menu > div:nth-child(2) > a
+    {
+        font-family:"LackRegular";
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        margin-left: 10px;
+    }
+
+    .menu_button
+    {
+        width: 230px;
+        height: 69px;
+        border: solid 2px #FFB887;
+        font-family:"LackRegular";
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        position: relative;
+        background-color:transparent;
+            transition-duration: .5s;
+    }
+
+    .menu_button:hover
+    {
+        background-color: #FF9C5A;
+    }
+
+    .menu > div:nth-child(2)
+    {
+        font-family:"LackRegular";
+        text-decoration: none;
+        color: white;
+        font-size: 22px;
+    }
+
+    .h-service
+    {
+        font-size: 30pt;
+        color: #F4914E;
+        font-family:"NeutralFace";
+        margin-top: 70px;
+    }
+
+    .services
+    {
+        width: 850px;
+        height: 100px;
+        margin-left: 140px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .pic-num
+    {
+        width: 900px;
+        height: 200px;
+        margin-top: 50px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .pic-num > .pic:nth-child(3)
+    {
+        top: -25px;
+    }
+
+    .pic-list
+    {
+        width: 900px;
+        height: 50px;
+        margin-top: 50px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .pic-list > div
+    {
+        width: 330px;
+        height: 100px;
+        font-family: "RobotoRegular";
+        color: black;
+    }
+
+    .pic-list > div:nth-child(2)
+    {
+        margin-left: 60px;
+    }
+
+    .pic-list > div:nth-child(3)
+    {
+        margin-left: 100px;
+    }
+
+    .pic-list > div > h2
+    {
+        font-family:"NeutralFace";
+        color: #1B1FA1;
+    }
+
+    .b-button-place
+    {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+
+    .order_button
+    {
+        width: 345px;
+        height: 69px;
+        top: 300px;
+        border: solid 2px #FF9C5A;
+        font-family:"LackRegular";
+        text-decoration: none;
+        color: white;
+        font-size: 22px;
+        position: relative;
+        background-color:#FF9C5A;
+            transition-duration: .5s;
+    }
+
+    .order_button:hover
+    {
+        background-color: #FFB887;
+    }
+
+    footer
+    {
+        max-width: 1200px;
+        height: 362px;
+        margin-top: 900px;
+    }
+    .upper_footer
+    {
+        max-width: 1200px;
+        height: 321px;
+        background-color: #ffffff;
+    }
+    .footer_info{
+        width: 1110px;
+        height: 193px;
+        font-family: "NeutralFace";
+        font-size: 60px;
+        padding-top: 31px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer_logo
+    {
+        font-family: NeutralFace;
+        font-size: 60px;
+        margin-left: 100px;
+    }
+    .footer_logo>p {
+        margin-top: 0px;
+        font-family: "NeutralFaceReg";
+        font-size: 34px;
+    }
+    .footer_row
+    {
+        font-size: 16px;
+        display: flex;
+        flex-direction: column;
+        margin-left: 200px;
+    }
+    .footer_row>a
+    {
+        margin-top: 30px;
+        font-family: "RobotoRegular";
+        text-decoration: none;
+        color: #000000;
+    }
+    .copyright {
+        height: 41px;
+        background-color: #1B1FA1;
+        color: #ffffff;
+        display:flex;
+        padding-bottom: 12px;
+        font-family: "ManropeRegular";
+    }
+    .copyright>p
+    {
+        display: flex;
+        width:322px;
+        margin-left: 136px;
+    }
+}
