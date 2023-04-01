@@ -1,0 +1,61 @@
+/* *
+{
+    margin-left:auto;
+    margin-right:auto;
+    width: 100%;
+    height: 90%;
+    scroll-behavior: smooth;
+} */
+
+.menu
+{
+    background-image: url("../images/menu.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: relative;
+    color:#1B1FA1;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .advertisement
+{
+    position: absolute;
+    left: 0%;
+    right: 3.07%;
+    top: 0%;
+    bottom: 0%;
+    font-family: 'Neutral Face';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 47px;
+    color: #F4914E;
+} */
