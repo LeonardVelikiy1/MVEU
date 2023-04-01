@@ -149,10 +149,35 @@ html
     justify-content: space-between;
 }
 
+.advertisement
+{
+    color: #000000;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Roboto';
+}
+
+.WEB-DEVELOPMENT
+{
+    color: #000000;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Roboto';
+}
+
+.design
+{
+    color: #000000;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Roboto';
+}
+
 .pic-list > div
 {
     width: 330px;
     height: 100px;
+    margin-top: 30px;
     font-family: "RobotoRegular";
     color: black;
 }
@@ -175,7 +200,7 @@ html
 {
     width: 345px;
     height: 69px;
-    top: 300px;
+    top: 360px;
     border: solid 2px #FF9C5A;
     font-family:"LackRegular";
     text-decoration: none;
@@ -195,7 +220,7 @@ footer
 {
     max-width: 1920px;
     height: 362px;
-    margin-top: 826px;
+    margin-top: 900px;
 }
 .upper_footer
 {
