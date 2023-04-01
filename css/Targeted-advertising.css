@@ -32,6 +32,17 @@ main
     transition-duration: .5s;
 }
 
+.Ellipse-48
+{ 
+    position: absolute;   
+    width: 797px;
+    height: 782px;
+    margin-left: 562px;
+    margin-top: 0px;
+    background: rgba(244, 145, 78, 0.1);
+    filter: blur(56px);
+}
+
 footer
 {
     width: 1920px;
@@ -211,7 +222,6 @@ footer
     margin-left: auto;
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 700;
     font-size: 25px;
     line-height: 29px;
     text-align: justify;
@@ -319,4 +329,23 @@ center
 {
     padding-top: 10px;
     color: #000000;
+}
+
+.order_form 
+{
+    width: 1027px;
+    color: #000000;
+    height: 655px;
+    font-family: "RobotoMedium";
+    font-size: 34px;
+}
+.order_form >h2
+{
+    font-family: "NeutralFace";
+        text-transform: uppercase;
+        font-size: 36px;
+        text-align: center;
+        margin-top: 100px;
+        height :35px;
+        color: #0F127D;
 }
