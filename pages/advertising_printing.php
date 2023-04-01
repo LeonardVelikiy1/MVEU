@@ -34,7 +34,7 @@
     <main>
         <p class="advertisement">РЕКЛАМА</p>
         <div class="bloc">
-            <p class="advertising-printing">таргетированная реклама текст</p>
+            <p class="advertising-printing">Дизайн полиграфической продукции</p>
             <p class="this"><b>Дизайн полиграфической продукции</b> — это разработка макетов и материалов под печать на бумажном носителе.<br><br><b>Мы создаём дизайн для:</b></p>
             <p class="description">
             Брошюр, буклетов, листовок, лифлетов, флаеров;<br><br>
