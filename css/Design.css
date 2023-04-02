@@ -762,3 +762,113 @@ footer
     width: 350px;
     height: 380px;
 }
+
+.popup-container
+{
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    margin-left: 0px;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 9;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.popup-container-view
+{
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup-header
+{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.popup-close-button
+{
+    width: 50px;
+    height: 50px;
+    background: url(../images/portfolio_design/close.svg);
+    background-position: center;
+    background-size: 90%;
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+
+.popup-close-button:hover
+{
+    cursor: pointer;
+}
+
+.popup-block 
+{
+    height: 90%;
+    width: 90%;
+    margin-top: 2.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #3f3f3f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.popup-block-with-image
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+
+.popup-left-arrow
+{
+    background: url(../images/portfolio_design/left-arrow.svg);
+}
+
+.popup-right-arrow
+{
+    background: url(../images/portfolio_design/right-arrow.svg);
+}
+
+.popup-header
+{
+    height: 5%;
+    width: 100%;
+}
+
+.popup-left-arrow,
+.popup-right-arrow
+{
+    cursor: pointer;
+    background-position: center;
+    background-size: 95%;
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 40px;
+}
+
+.popup-img
+{
+    object-fit: contain;
+    background-size: contain;
+    width: 80%;
+    height: 80%;
+}
+
+.disable-scroll
+{
+    overflow: hidden;
+}

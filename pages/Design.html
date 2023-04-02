@@ -46,25 +46,25 @@
         </div>
     </div>
 <main>  
-    <div class="Digital-illustration">
+    <div class="Digital-illustration popup-gallery">
         <div class="Picture">
             <img src="../images/portfolio/Digital -illustration.png">
             <p>Цифровая иллюстрация</p>
         </div>
     </div>
-    <div class="Corporate-identity">
+    <div class="Corporate-identity popup-gallery">
         <div class="Picture2">
             <img src="../images/portfolio/Corporate-identity.png">
             <p>Фирменный стиль</p>
         </div>
     </div>
-    <div class="Logo-development">
+    <div class="Logo-development popup-gallery">
         <div class="Picture3">
             <img src="../images/portfolio/Logo-development.png">
             <p>Разработка логотипов</p>
         </div>
     </div>
-    <div class="Handmade-products">
+    <div class="Handmade-products popup-gallery">
         <div class="Picture4">
             <img src="../images/portfolio/Handmade-products.png">
             <p>Изделия ручной работы</p>
@@ -97,6 +97,19 @@
         </div>
     </footer>
       </div>
+
+      <div class="popup-container" id="popup-container">
+        <div class="popup-block">
+          <div class="popup-header">
+            <div class="popup-close-button" id="popup-close-button"></div>
+          </div>
+          <div class="popup-block-with-image">
+            <div class="popup-left-arrow" id="popup-left-arrow"></div>
+            <img id="popup-img" class="popup-img" src="" alt="">
+            <div class="popup-right-arrow" id="popup-right-arrow"></div>
+          </div>
+        </div>
+      </div>
       <script src="js/splide.min.js"></script>
       <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -108,6 +121,87 @@
     
           splide.mount();
         });
+
+        let pictures = document.getElementsByClassName("popup-gallery");
+        let body = document.body;
+        let popupContainer = document.getElementById('popup-container');
+        let closePopupButton = document.getElementById('popup-close-button');
+        let popupLeftArrow = document.getElementById('popup-left-arrow');
+        let popupRightArrow = document.getElementById('popup-right-arrow');
+        let popupImg = document.getElementById('popup-img');
+        let currentImage;
+
+        // ЧЕКАЕМ НАЖАТИЯ НА ДИВЫ С КАРТИНКАМИ
+        for (picture of pictures) {
+          picture.addEventListener("click", function (event) {
+            let blockWithImage = getBlockWithImage(event.target);
+            let imageSrc = getImageSrcFromBlock(blockWithImage);
+            currentImage = blockWithImage;
+            body.classList.toggle("disable-scroll");
+            popupContainer.classList.toggle('popup-container-view');
+            popupImg.src = imageSrc;
+          });
+        }
+
+        // ЗАКРЫТИЕ ПОПАПА ПО НАЖАТИЮ КНОПКИ
+        closePopupButton.addEventListener('click', function () {
+          popupContainer.classList.toggle('popup-container-view');
+          body.classList.toggle("disable-scroll");
+
+        });
+
+        // ЗАКРЫТИЕ ПОПАПА ПО НАЖАТИЮ ЭСКЕЙП
+        document.addEventListener('keydown', function (event) {
+          if (event.code === 'Escape' && [...  popupContainer.classList].includes('popup-container-view')) {
+            popupContainer.classList.toggle('popup-container-view');
+            body.classList.toggle("disable-scroll");
+          }
+        });
+
+        popupLeftArrow.addEventListener('click', function() {
+          let currentImageIndex = [... pictures].indexOf(currentImage);
+          if (currentImageIndex === 0) {
+            currentImage =[... pictures][(pictures.length - 1)];
+            popupImg.src = currentImage.getElementsByTagName('img').item(0).src;
+          } else {
+            currentImage =[... pictures][(currentImageIndex - 1)];
+            popupImg.src = currentImage.getElementsByTagName('img').item(0).src;
+          }
+        });
+
+        popupRightArrow.addEventListener('click', function() {
+          let currentImageIndex = [... pictures].indexOf(currentImage);
+          if (currentImageIndex === pictures.length) {
+            currentImage =[... pictures][0];
+            popupImg.src = currentImage.getElementsByTagName('img').item(0).src;
+          } else {
+            currentImage =[... pictures][(currentImageIndex + 1)];
+            popupImg.src = currentImage.getElementsByTagName('img').item(0).src;
+          }
+        });
+
+        function getBlockWithImage(element)
+        {
+          let index = 0;
+          let currentElement = element;
+          let classList = currentElement.classList;
+
+          while (![... classList].includes('popup-gallery') || index > 5) {
+            index++;
+            currentElement = currentElement.parentNode;
+            classList = currentElement.classList
+          }
+
+          return currentElement;
+        }
+
+        function getImageSrcFromBlock(blockWithImage)
+        {
+          console.log('hui');
+          return blockWithImage.getElementsByTagName('img').item(0).src;
+        }
       </script>
+
+      
 </body>
 </html>
