@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="../css/fonts.css">
   <link rel="stylesheet" href="../css/splide.min.css">
   <link rel="stylesheet" href="../css/order_form.css">
-  <link rel="stylesheet" href="../css/Targeted-advertising.css">
+  <link rel="stylesheet" href="../css/Setting-up-advertising-campaigns.css">
   <link rel="stylesheet" href="../css/adapt_portfolio.css">
     <title>Студенческая фирма</title>
 </head>
@@ -37,7 +37,15 @@
             <p class="Targeted-advertising">Контекстная реклама</p>
             <p class="this"><b>Контекстная реклама</b> — реклама в поисковых системах (сегодня это Яндекс), благодаря которой ваше объявление выйдет первым по запросу клиента</p>
             <p class="description">Что входит в нашу работу?</p>
-            <p class="description-works">Создание или выбор страницы, на которую попадают пользователи после клика по рекламному объявлению;<br><br>Выбор цели кампании, формата рекламных объявлений;<br><br>Разработка креативов (вид рекламного объявления). Создание объявлений или групп объявлений, добавление текстов, картинок, ссылок и кнопки;<br><br>Установление сроков, частоты показов, иных настроек. Запуск кампании и отслеживание результатов;<br><br>Оценка эффективности рекламной кампании, внесение изменений и последующее ее ведение.</p>
+            <p class="description-works">Анализ целевой аудитории (кто, когда покупает);<br><br>
+            Анализ конкурентов (анализ цен, предложений, посадочных страниц, контекстной и таргетированной рекламы);<br><br>
+            Выбор (или разработка) посадочной страницы;<br><br>
+            Подбор ключевых слов;<br><br>
+            Составление заголовка и текста объявления;<br><br>
+            Настройка параметров показа рекламы (гео таргетинг, время суток);<br><br>
+            Настройка аналитики (Яндекс метрики);<br><br>
+            Тестовый запуск и оценка эффективности.
+        </p>
         </div>
         <div>
             <div class="Ellipse_61"></div>
@@ -45,13 +53,13 @@
             <div class="Ellipse_63"></div>
             <div class="Ellipse_64"></div>
             <div class="Ellipse_65"></div>
+            <div class="Ellipse_66"></div>
+            <div class="Ellipse_67"></div>
+            <div class="Ellipse_68"></div>
         </div>
         <div>
             <div class="Group">
-                <img class="image" src="../images/portfolio/Targeted-advertising.png">
-                <img class="image2" src="../images/portfolio/cocktails.png">
-                <img class="image3" src="../images/portfolio/perepechkin.png">
-                <img class="image4" src="../images/portfolio/beaming-with-happiness.png">
+                <img class="image" src="../images/portfolio/">
             </div>
         </div>
         <div>
@@ -61,7 +69,6 @@
         </div>
         <div>
         <div style="height:879px;" class="container">
-        <div class="Ellipse-48"></div>
             <div class="order_form">
               <h2 >Заинтересовались?</h2>
               <p style="margin-bottom: 70px;height:42px;  text-align:center;font-size: 30px;font-family:NeutralFaceReg ;">Оставьте свою заявку и мы свяжемся с вами</p>
