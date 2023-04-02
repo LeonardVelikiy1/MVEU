@@ -171,7 +171,7 @@
 
         popupRightArrow.addEventListener('click', function() {
           let currentImageIndex = [... pictures].indexOf(currentImage);
-          if (currentImageIndex === pictures.length) {
+          if (currentImageIndex === (pictures.length - 1)) {
             currentImage =[... pictures][0];
             popupImg.src = currentImage.getElementsByTagName('img').item(0).src;
           } else {
