@@ -158,6 +158,11 @@
           }
         });
 
+        popupContainer.addEventListener('click', function () {
+          popupContainer.classList.toggle('popup-container-view');
+          body.classList.toggle("disable-scroll");
+        });
+
         popupLeftArrow.addEventListener('click', function() {
           let currentImageIndex = [... pictures].indexOf(currentImage);
           if (currentImageIndex === 0) {
