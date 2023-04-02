@@ -301,7 +301,7 @@ footer
 {
     position: absolute;
     width: 610px;
-    height: 1097px;
+    height: 500px;
     left: 988px;
     top: 398px;   
     background: #D9D9D9;
@@ -310,7 +310,7 @@ footer
 .image
 {
     width: 610px;
-    height: 1097px;
+    height: 500px;
     left: 988px;
     top: 398px;
 }

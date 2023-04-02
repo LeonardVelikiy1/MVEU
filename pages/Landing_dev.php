@@ -57,7 +57,7 @@
         </div>
         <div>
             <div class="Group">
-                <img class="image" src="../images/portfolio/">
+                <img class="image" src="../images/portfolio/Single-page-sites.png">
             </div>
         </div>
         <div>

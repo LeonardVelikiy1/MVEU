@@ -67,7 +67,7 @@
         </div>
         <div>
             <div class="Group">
-                <img class="image" src="../images/portfolio/">
+                <img class="image" src="../images/portfolio/Mobile-applications.PNG">
             </div>
         </div>
         <div>

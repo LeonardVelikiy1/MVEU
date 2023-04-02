@@ -60,7 +60,7 @@
         </div>
         <div>
             <div class="Group">
-                <img class="image" src="../images/portfolio/">
+                <img class="image" src="../images/portfolio/Website-development.png">
             </div>
         </div>
         <div>
