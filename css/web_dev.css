@@ -160,7 +160,7 @@ footer
     width: 18px;
     height: 18px;
     left: 283px;
-    top: 870px;
+    top: 850px;
     background: rgba(244, 145, 78, 0.5);
     border-radius: 50%;
 }
@@ -172,7 +172,7 @@ footer
     width: 18px;
     height: 18px;
     left: 283px;
-    top: 958px;
+    top: 961px;
     background: rgba(244, 145, 78, 0.5);
 }
 
@@ -183,7 +183,7 @@ footer
     width: 18px;
     height: 18px;
     left: 283px;
-    top: 1104px;
+    top: 1054px;
     background: rgba(244, 145, 78, 0.5);
 }
 
@@ -194,7 +194,47 @@ footer
     width: 18px;
     height: 18px;
     left: 283px;
-    top: 1221px;
+    top: 1140px;
+    background: rgba(244, 145, 78, 0.5);
+}
+.Ellipse_66
+{
+    border-radius: 50%;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 283px;
+    top: 1195px;
+    background: rgba(244, 145, 78, 0.5);
+}
+.Ellipse_67
+{
+    border-radius: 50%;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 283px;
+    top: 1255px;
+    background: rgba(244, 145, 78, 0.5);
+}
+.Ellipse_68
+{
+    border-radius: 50%;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 283px;
+    top: 1310px;
+    background: rgba(244, 145, 78, 0.5);
+}
+.Ellipse_69
+{
+    border-radius: 50%;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 283px;
+    top: 1400px;
     background: rgba(244, 145, 78, 0.5);
 }
 
@@ -306,7 +346,7 @@ footer
     width: 376px;
     height: 66px;
     left: 772px;
-    top: 1377px;
+    top: 1477px;
     filter: drop-shadow(3px 3px 5px rgba(37, 28, 95, 0.5));
     border: 3px outset #c010f0;
     border-left: 3px outset #D919c5;
