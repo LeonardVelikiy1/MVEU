@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="../css/fonts.css">
   <link rel="stylesheet" href="../css/splide.min.css">
   <link rel="stylesheet" href="../css/order_form.css">
-  <link rel="stylesheet" href="../css/Targeted-advertising.css">
+  <link rel="stylesheet" href="../css/web_dev.css">
   <link rel="stylesheet" href="../css/adapt_portfolio.css">
     <title>Студенческая фирма</title>
 </head>
@@ -32,9 +32,9 @@
     <button class="menu_button"> <a href="order_form.php" style="text-decoration: none; color:aliceblue;">Заказать проект</a></button>
     </form>
     <main>
-        <p class="advertisement">РЕКЛАМА</p>
+        <p class="advertisement">Веб-разработка</p>
         <div class="bloc">
-            <p class="Targeted-advertising">Таргетированная реклама</p>
+            <p class="Targeted-advertising">Разработка веб-сайта</p>
             <p class="this"><b>Таргетированная реклама</b> — это реклама в социальных сетях (ВКонтакте, Одноклассники, РСЯ), которая приведет к вам вашу целевую аудиторию, побудит её перейти по ссылке на сайт, совершить покупку, оставить контактные данные, а также повысит узнаваемость бренда.</p>
             <p class="description">Что входит в нашу работу?</p>
             <p class="description-works">Создание или выбор страницы, на которую попадают пользователи после клика по рекламному объявлению;<br><br>Выбор цели кампании, формата рекламных объявлений;<br><br>Разработка креативов (вид рекламного объявления). Создание объявлений или групп объявлений, добавление текстов, картинок, ссылок и кнопки;<br><br>Установление сроков, частоты показов, иных настроек. Запуск кампании и отслеживание результатов;<br><br>Оценка эффективности рекламной кампании, внесение изменений и последующее ее ведение.</p>
