@@ -733,65 +733,64 @@
     }
     
 
-        footer
-        {
-            max-width: 1366px;
-            height: 362px;
-            margin-top: -3500px;
-        }
-        .upper_footer
-        {
-            max-width: 1366px;
-            height: 321px;
-            background-color: #ffffff;
-        }
-        .footer_info{
-            width: 1110px;
-            height: 193px;
-            font-family: "NeutralFace";
-            font-size: 63px;
-            padding-top: 31px;
-            display: flex;
-            justify-content: center;
-        }
-
-        .footer_logo
-        {
-            font-family: NeutralFace;
-            font-size: 63px;
-            margin-left: 80px;
-        }
-        .footer_logo>p {
-            margin-top: 0px;
-            font-family: "NeutralFaceReg";
-            font-size: 38px;
-        }
-        .footer_row
-        {
-            font-size: 16px;
-            display: flex;
-            flex-direction: column;
-            margin-left: 259px;
-        }
-        .footer_row>a
-        {
-            margin-top: 30px;
-            font-family: "RobotoRegular";
-            text-decoration: none;
-            color: #000000;
-        }
-        .copyright {
-            height: 41px;
-            background-color: #1B1FA1;
-            color: #ffffff;
-            display:flex;
-            padding-bottom: 12px;
-            font-family: "ManropeRegular";
-        }
-        .copyright>p
-        {
-            display: flex;
-            width:322px;
-            margin-left: 136px;
-        }
+    footer
+    {
+        max-width: 1366px;
+        height: 362px;
     }
+    .upper_footer
+    {
+        max-width: 1366px;
+        height: 321px;
+        background-color: #ffffff;
+    }
+    .footer_info{
+        width: 1110px;
+        height: 193px;
+        font-family: "NeutralFace";
+        font-size: 63px;
+        padding-top: 31px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer_logo
+    {
+        font-family: NeutralFace;
+        font-size: 63px;
+        margin-left: 80px;
+    }
+    .footer_logo>p {
+        margin-top: 0px;
+        font-family: "NeutralFaceReg";
+        font-size: 38px;
+    }
+    .footer_row
+    {
+        font-size: 16px;
+        display: flex;
+        flex-direction: column;
+        margin-left: 259px;
+    }
+    .footer_row>a
+    {
+        margin-top: 30px;
+        font-family: "RobotoRegular";
+        text-decoration: none;
+        color: #000000;
+    }
+    .copyright {
+        height: 41px;
+        background-color: #1B1FA1;
+        color: #ffffff;
+        display:flex;
+        padding-bottom: 12px;
+        font-family: "ManropeRegular";
+    }
+    .copyright>p
+    {
+        display: flex;
+        width:322px;
+        margin-left: 136px;
+    }
+}
