@@ -60,10 +60,7 @@
         </div>
         <div>
             <div class="Group">
-                <img class="image" src="../images/portfolio/Targeted-advertising.png">
-                <img class="image2" src="../images/portfolio/cocktails.png">
-                <img class="image3" src="../images/portfolio/perepechkin.png">
-                <img class="image4" src="../images/portfolio/beaming-with-happiness.png">
+                <img class="image" src="../images/portfolio/">
             </div>
         </div>
         <div>
