@@ -50,7 +50,7 @@
         </div>
         <div>
             <div class="Group">
-                <img class="image" src="../images/portfolio/">
+                <img class="image" src="../images/portfolio/Chatbot-for-social-networks.jpg">
             </div>
         </div>
         <div>

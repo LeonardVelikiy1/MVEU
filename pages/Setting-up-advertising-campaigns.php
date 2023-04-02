@@ -59,7 +59,7 @@
         </div>
         <div>
             <div class="Group">
-                <img class="image" src="../images/portfolio/">
+                <img class="image" src="../images/portfolio/Contextual-advertising.png">
             </div>
         </div>
         <div>
