@@ -61,7 +61,7 @@
         </div>
         <div>
         <div style="height:879px;" class="container">
-        <div class="Ellipse-48"></div>
+    
             <div class="order_form">
               <h2 >Заинтересовались?</h2>
               <p style="margin-bottom: 70px;height:42px;  text-align:center;font-size: 30px;font-family:NeutralFaceReg ;">Оставьте свою заявку и мы свяжемся с вами</p>
