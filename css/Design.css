@@ -790,6 +790,7 @@ footer
 
 .popup-header
 {
+    height: 5%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -813,9 +814,8 @@ footer
 
 .popup-block 
 {
-    height: 90%;
+    height: 85%;
     width: 90%;
-    margin-top: 2.5%;
     margin-left: 10%;
     margin-right: 10%;
     background-color: #3f3f3f;
