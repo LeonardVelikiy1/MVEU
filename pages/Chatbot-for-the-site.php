@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="../css/fonts.css">
   <link rel="stylesheet" href="../css/splide.min.css">
   <link rel="stylesheet" href="../css/order_form.css">
-  <link rel="stylesheet" href="../css/Chatbot-for-social-networks.css">
+  <link rel="stylesheet" href="../css/Chatbot-for-the-site.css">
   <link rel="stylesheet" href="../css/adapt_portfolio.css">
     <title>Студенческая фирма</title>
 </head>
@@ -50,7 +50,7 @@
         </div>
         <div>
             <div class="Group">
-                <img class="image" src="../images/portfolio/">
+                <img class="image" src="../images/portfolio/Chatbot-for-website.png">
             </div>
         </div>
         <div>
