@@ -28,7 +28,7 @@
     <a href="pages/portfolio.html" style="text-decoration: none; color:aliceblue;">Портфолио</a>
     <a href="pages/mentors.html"  style="text-decoration: none; color:aliceblue;">Наставники</a>
     <a href="pages/contacts.html"  style="text-decoration: none; color:aliceblue;">Контакты</a>
-      <button class="menu_button"> <a href="pages/order_form.php" style="text-decoration: none; color:aliceblue;">Заказать проект</a></button>
+      <button class="menu_button" style="text-decoration: none; color:aliceblue;"><a href="pages/order_form.php" style="text-decoration: none; padding-left: 43px; padding-right: 43px; padding-top: 15px; padding-bottom: 15px; color:aliceblue;">Заказать проект</a></button>
     </form>
   </div>
   <div class="main">
@@ -36,7 +36,7 @@
           <span>СТУДЕНЧЕСКАЯ<br> ФИРМА</span>
       <p>Колледж креативных индустрий</p>
       <form action="">
-              <button style="position: relative; bottom: 4%; right: 1%; width: 419px;" class="menu_button"> <a href="pages/order_form.php" style="text-decoration: none; color:aliceblue;">Задайте нам вопрос</a></button>
+              <button style="position: relative; bottom: 4%; right: 1%; width: 419px;" class="menu_button"> <a href="pages/order_form.php" style="text-decoration: none; color:aliceblue; padding-left: 52px; padding-right: 52px; padding-top: 16px; padding-bottom: 15px;">Задайте нам вопрос</a></button>
       </form>
     </div>
   </div>

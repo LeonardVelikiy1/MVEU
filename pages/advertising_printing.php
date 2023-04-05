@@ -29,7 +29,7 @@
     <a href="portfolio.html" style="text-decoration: none; color:aliceblue;">Портфолио</a>
     <a href="Mentors.html" style="text-decoration: none; color:aliceblue;">Наставники</a>
     <a href="contacts.html" style="text-decoration: none; color:aliceblue;">Контакты</a>
-    <button class="menu_button"> <a href="order_form.php" style="text-decoration: none; color:aliceblue;">Заказать проект</a></button>
+    <button class="menu_button"><a href="order_form.php" style="text-decoration: none; padding-left: 43px; padding-right: 43px; padding-top: 15px; padding-bottom: 15px; color:aliceblue;">Заказать проект</a></button>
     </form>
     <main>
         <p class="advertisement">РЕКЛАМА</p>
@@ -84,7 +84,6 @@
         </div>
         <div>
         <div style="height:879px;" class="container">
-        <div class="Ellipse-48"></div>
             <div class="order_form">
               <h2 >Заинтересовались?</h2>
               <p style="margin-bottom: 70px;height:42px;  text-align:center;font-size: 30px;font-family:NeutralFaceReg ;">Оставьте свою заявку и мы свяжемся с вами</p>

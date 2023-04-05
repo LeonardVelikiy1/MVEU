@@ -27,6 +27,7 @@ html
     position: relative;
 }
 
+
 .menu
 {
     display: flex;
@@ -85,7 +86,7 @@ html
 }
 .menu_button
 {
-    width: 295px;
+    width: 320px;
     height: 69px;
     border: solid 2px #FFB887;
     font-family:"LackRegular";

@@ -140,20 +140,13 @@ main>div {
     background-size: 360px auto;
 }
 
-.text-img-place>div>div:nth-child(2)>div:nth-child(4) {
-    height: 600px;
-    width: 360px;
-    background-image: url(../images/design_digital/pic9.svg);
-    background-repeat: no-repeat;
-    background-size: 360px auto;
-}
-
 
 main>div>div {
     width: 1500px;
     height: max-content;
     display: flex;
     flex-direction: row;
+    margin-top: 100px;
     justify-content: space-between;
 }
 
