@@ -28,7 +28,7 @@
     <a href="pages/portfolio.html" style="text-decoration: none; color:aliceblue;">Портфолио</a>
     <a href="pages/mentors.html"  style="text-decoration: none; color:aliceblue;">Наставники</a>
     <a href="pages/contacts.html"  style="text-decoration: none; color:aliceblue;">Контакты</a>
-      <button class="menu_button" style="text-decoration: none; color:aliceblue;"><a href="pages/order_form.php" style="text-decoration: none; padding-left: 43px; padding-right: 43px; padding-top: 15px; padding-bottom: 15px; color:aliceblue;">Заказать проект</a></button>
+      <button class="menu_button" style="text-decoration: none; color:aliceblue;"><a href="pages/order_form.php" style="text-decoration: none; padding-left: 42px; padding-right: 42px; padding-top: 15px; padding-bottom: 15px; color:aliceblue;">Заказать проект</a></button>
     </form>
   </div>
   <div class="main">

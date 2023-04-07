@@ -235,6 +235,7 @@ footer
     position: absolute;
     width: 674px;
     height: 588px;
+    cursor: pointer;
 }
 
 .Picture > p
@@ -275,6 +276,7 @@ footer
     position: absolute;
     width: 674px;
     height: 588px;
+    cursor: pointer;
 }
 
 .Picture2 > p
@@ -315,6 +317,7 @@ footer
     position: absolute;
     width: 674px;
     height: 588px;
+    cursor: pointer;
 }
 
 .Picture3 > p
@@ -354,6 +357,7 @@ footer
 {
     position: absolute;
     width: 674px;
+    cursor: pointer;
     height: 588px;
 }
 
@@ -372,330 +376,7 @@ footer
     color: #000000;
 }
 
-.Targeted-advertising
-{
-    position: absolute;
-    width: 674px;
-    height: 749px;
-    left: 250px;
-    top: 2322px;
-    background-color: #ffffff;
-    box-shadow: 0px 10px 10px 10px rgba(5, 5, 5, .10);
-}
 
-.Picture5
-{
-    position: absolute;
-    width: 674px;
-    height: 612px;
-}
-
-.Picture5 > img
-{
-    position: absolute;
-    width: 674px;
-    height: 588px;
-}
-
-.Picture5 > p
-{
-    position: absolute;
-    width: 380px;
-    height: 47px;
-    left: 50px;
-    top: 610px;
-    font-family: sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 47px;
-    color: #000000;
-}
-
-.Graphic-design
-{
-    position: absolute;
-    width: 674px;
-    height: 749px;
-    left: 995px;
-    top: 2322px;
-    background-color: #ffffff;
-    box-shadow: 0px 10px 10px 10px rgba(5, 5, 5, .10);
-}
-
-.Picture6
-{
-    position: absolute;
-    width: 674px;
-    height: 612px;
-}
-
-.Picture6 > img
-{
-    position: absolute;
-    width: 674px;
-    height: 588px;
-}
-
-.Picture6 > p
-{
-    position: absolute;
-    width: 352px;
-    height: 47px;
-    left: 50px;
-    top: 610px;
-    font-family: sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 47px;
-    color: #000000;
-}
-
-.Chatbot-for-the-site
-{
-    position: absolute;
-    width: 674px;
-    height: 749px;
-    left: 250px;
-    top: 3137px;
-    background-color: #ffffff;
-    box-shadow: 0px 10px 10px 10px rgba(5, 5, 5, .10);
-}
-
-.Picture7
-{
-    position: absolute;
-    width: 674px;
-    height: 612px;
-    background-color: #afafaf;
-}
-
-.Picture7 > img
-{
-    position: absolute;
-    width: 674px;
-    height: 588px;
-}
-
-.Picture7 > p
-{
-    position: absolute;
-    width: 352px;
-    height: 47px;
-    left: 50px;
-    top: 610px;
-    font-family: sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 47px;
-    color: #000000;
-}
-
-.Chatbot-for-social-networks
-{
-    position: absolute;
-    width: 674px;
-    height: 749px;
-    left: 995px;
-    top: 3137px;
-    background-color: #ffffff;
-    box-shadow: 0px 10px 10px 10px rgba(5, 5, 5, .10);    
-}
-
-.Picture8
-{
-    position: absolute;
-    width: 674px;
-    height: 612px;
-    background-color: #afafaf;
-}
-
-.Picture8 > img
-{
-    position: absolute;
-    width: 674px;
-    height: 588px;
-}
-
-.Picture8 > p
-{
-    position: absolute;
-    width: 450px;
-    height: 47px;
-    left: 50px;
-    top: 610px;
-    font-family: sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 47px;
-    color: #000000;
-}
-
-.Souvenir-products
-{
-    position: absolute;
-    width: 674px;
-    height: 749px;
-    left: 250px;
-    top: 3952px;
-    background-color: #ffffff;
-    box-shadow: 0px 10px 10px 10px rgba(5, 5, 5, .10);
-}
-
-.Picture9
-{
-    position: absolute;
-    width: 674px;
-    height: 612px;
-}
-
-.Picture9 > img
-{
-    position: absolute;
-    width: 674px;
-    height: 588px;
-}
-
-.Picture9 > p
-{
-    position: absolute;
-    width: 352px;
-    height: 47px;
-    left: 50px;
-    top: 610px;
-    font-family: sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 47px;
-    color: #000000;
-}
-
-.Website-development
-{
-    position: absolute;
-    width: 674px;
-    height: 749px;
-    left: 995px;
-    top: 3952px;
-    background-color: #ffffff;
-    box-shadow: 0px 10px 10px 10px rgba(5, 5, 5, .10);
-}
-
-.Picture10
-{
-    position: absolute;
-    width: 674px;
-    height: 612px;
-    background-color: #afafaf;
-}
-
-.Picture10 > img
-{
-    position: absolute;
-    width: 674px;
-    height: 588px;
-}
-
-.Picture10 > p
-{
-    position: absolute;
-    width: 352px;
-    height: 47px;
-    left: 50px;
-    top: 610px;
-    font-family: sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 47px;
-    color: #000000;
-}
-
-.Mobile-applications
-{
-    position: absolute;
-    width: 674px;
-    height: 749px;
-    left: 250px;
-    top: 4767px;
-    background-color: #ffffff;
-    box-shadow: 0px 10px 10px 10px rgba(5, 5, 5, .10);    
-}
-
-.Picture11
-{
-    position: absolute;
-    width: 674px;
-    height: 612px;
-    background-color: #afafaf;
-}
-
-.Picture11 > img
-{
-    position: absolute;
-    width: 674px;
-    height: 588px;
-}
-
-.Picture11 > p
-{
-    position: absolute;
-    width: 352px;
-    height: 47px;
-    left: 50px;
-    top: 610px;
-    font-family: sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 47px;
-    color: #000000;
-}
-
-.Single-page-sites
-{
-    position: absolute;
-    width: 674px;
-    height: 749px;
-    left: 995px;
-    top: 4767px;
-    background-color: #ffffff;
-    box-shadow: 0px 10px 10px 10px rgba(5, 5, 5, .10);
-}
-
-.Picture12
-{
-    position: absolute;
-    width: 674px;
-    height: 612px;
-    background-image: url("../images/portfolio/Single-page-sites.png");
-}
-
-.Picture12 > img
-{
-    position: absolute;
-    width: 674px;
-    height: 588px;
-}
-
-.Picture12 > p
-{
-    position: absolute;
-    width: 700px;
-    height: 47px;
-    left: 50px;
-    top: 610px;
-    font-family: sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 47px;
-    color: #000000;
-}
 
 .upper_footer
 {
