@@ -238,19 +238,25 @@ footer
     cursor: pointer;
 }
 
-.Picture > p
+.Picture > a
 {
     position: absolute;
     width: 370px;
     height: 47px;
     left: 50px;
-    top: 610px;
+    top: 640px;
     font-family: sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
     line-height: 47px;
     color: #000000;
+    text-decoration: none;
+}
+
+.Picture a:hover
+{
+    color: #1B1FA1;
 }
 
 .Corporate-identity
@@ -279,19 +285,25 @@ footer
     cursor: pointer;
 }
 
-.Picture2 > p
+.Picture2 > a
 {
     position: absolute;
     width: 352px;
     height: 47px;
     left: 50px;
-    top: 610px;
+    top: 640px;
     font-family: sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
     line-height: 47px;
     color: #000000;
+    text-decoration: none;
+}
+
+.Picture2 a:hover
+{
+    color: #1B1FA1;
 }
 
 .Logo-development
@@ -320,19 +332,25 @@ footer
     cursor: pointer;
 }
 
-.Picture3 > p
+.Picture3 > a
 {
     position: absolute;
     width: 352px;
     height: 47px;
     left: 50px;
-    top: 610px;
+    top: 640px;
     font-family: sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
     line-height: 47px;
     color: #000000;
+    text-decoration: none;
+}
+
+.Picture3 a:hover
+{
+    color: #1B1FA1;
 }
 
 .Handmade-products
@@ -357,23 +375,29 @@ footer
 {
     position: absolute;
     width: 674px;
-    cursor: pointer;
     height: 588px;
+    cursor: pointer;
 }
 
-.Picture4 > p
+.Picture4 > a
 {
     position: absolute;
     width: 360px;
     height: 47px;
     left: 50px;
-    top: 610px;
+    top: 640px;
     font-family: sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
     line-height: 47px;
     color: #000000;
+    text-decoration: none;
+}
+
+.Picture4 a:hover
+{
+    color: #1B1FA1;
 }
 
 

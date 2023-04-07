@@ -208,6 +208,17 @@ footer
     box-shadow: 0px 10px 10px 10px rgba(5, 5, 5, .10);
 }
 
+.Website-development
+{
+    position: absolute;
+    width: 674px;
+    height: 749px;
+    left: 995px;
+    top: 692px;
+    background-color: #ffffff;
+    box-shadow: 0px 10px 10px 10px rgba(5, 5, 5, .10);
+}
+
 .Picture10
 {
     position: absolute;
@@ -220,22 +231,28 @@ footer
 {
     position: absolute;
     width: 674px;
-    height: 613px;
+    height: 612px;
 }
 
-.Picture10 > p
+.Picture10 > a
 {
     position: absolute;
     width: 352px;
     height: 47px;
     left: 50px;
-    top: 610px;
+    top: 640px;
     font-family: sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
     line-height: 47px;
     color: #000000;
+    text-decoration: none;
+}
+
+.Picture10 a:hover
+{
+    color: #1B1FA1;
 }
 
 .Mobile-applications
@@ -243,8 +260,8 @@ footer
     position: absolute;
     width: 674px;
     height: 749px;
-    left: 993px;
-    top: 691px;
+    left: 250px;
+    top: 692px;
     background-color: #ffffff;
     box-shadow: 0px 10px 10px 10px rgba(5, 5, 5, .10);    
 }
@@ -264,29 +281,34 @@ footer
     height: 613px;
 }
 
-.Picture11 > p
+.Picture11 > a
 {
     position: absolute;
     width: 370px;
     height: 47px;
     left: 50px;
-    top: 610px;
+    top: 640px;
     font-family: sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
     line-height: 47px;
     color: #000000;
+    text-decoration: none;
+}
+
+.Picture11 a:hover
+{
+    color: #1B1FA1;
 }
 
 .Single-page-sites
 {
     position: absolute;
-    position: absolute;
     width: 674px;
     height: 749px;
-    left: 253px;
-    top: 1506px;    
+    left: 250px;
+    top: 1507px;
     background-color: #ffffff;
     box-shadow: 0px 10px 10px 10px rgba(5, 5, 5, .10);
 }
@@ -296,29 +318,35 @@ footer
     position: absolute;
     width: 674px;
     height: 612px;
-    background-color: #afafaf;
+    background-image: url("../images/portfolio/Single-page-sites.png");
 }
 
 .Picture12 > img
 {
     position: absolute;
     width: 674px;
-    height: 613px;
+    height: 588px;
 }
 
-.Picture12 > p
+.Picture12 > a
 {
     position: absolute;
     width: 700px;
     height: 47px;
     left: 50px;
-    top: 610px;
+    top: 640px;
     font-family: sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
     line-height: 47px;
     color: #000000;
+    text-decoration: none;
+}
+
+.Picture12 a:hover
+{
+    color: #1B1FA1;
 }
 
 .upper_footer
