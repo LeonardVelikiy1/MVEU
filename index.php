@@ -36,7 +36,7 @@
           <span>СТУДЕНЧЕСКАЯ<br> ФИРМА</span>
       <p>Колледж креативных индустрий</p>
       <form action="">
-              <button style="position: relative; bottom: 4%; right: 1%; width: 419px;" class="menu_button"> <a href="pages/order_form.php" style="text-decoration: none; color:aliceblue; padding-left: 52px; padding-right: 52px; padding-top: 16px; padding-bottom: 15px;">Задайте нам вопрос</a></button>
+              <button style="position: relative; bottom: 4%; right: 1%; width: 419px;" class="menu_button"> <a href="pages/order_form.php" style="text-decoration: none; color:aliceblue; padding-left: 50px; padding-right: 50px; padding-top: 16px; padding-bottom: 15px;">Задайте нам вопрос</a></button>
       </form>
     </div>
   </div>
