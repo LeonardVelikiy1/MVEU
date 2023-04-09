@@ -47,9 +47,9 @@
   <div class="portfolio">
     <h2> Наше портфолио</h2>
     <div class="portfolio_a">
-    <a style="width: 105px; height: 28px;"> Дизайн </a>
-    <a> Разработка сайтов и  приложений</a>
-    <a style="width: 105px; height: 28px;"> Реклама</a>
+      <p>Дизайн</p>
+      <p>Разработка сайтов и  приложений</p>
+      <p>Реклама</p>
     </div>
       <section class="splide" aria-label="Splide Basic HTML Example">
           <div class="splide__arrows">

@@ -165,6 +165,7 @@ main
     display: flex;
     width: 1107px;
     height: 56px;
+    font-size: 30px;
 }
 .portfolio_a>a
 {
