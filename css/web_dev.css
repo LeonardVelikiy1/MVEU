@@ -423,7 +423,7 @@ center
         position: absolute;
         width: 570px;
         height: 956px;
-        left: 321px;
+        left: 100px;
         top: 361px;
     }
 
@@ -481,6 +481,7 @@ center
         top: 1140px;
         background: rgba(244, 145, 78, 0.5);
     }
+
     .Ellipse_66
     {
         border-radius: 50%;
@@ -491,6 +492,7 @@ center
         top: 1195px;
         background: rgba(244, 145, 78, 0.5);
     }
+
     .Ellipse_67
     {
         border-radius: 50%;
@@ -501,6 +503,7 @@ center
         top: 1255px;
         background: rgba(244, 145, 78, 0.5);
     }
+
     .Ellipse_68
     {
         border-radius: 50%;
@@ -511,6 +514,7 @@ center
         top: 1310px;
         background: rgba(244, 145, 78, 0.5);
     }
+
     .Ellipse_69
     {
         border-radius: 50%;
@@ -536,7 +540,6 @@ center
         line-height: 43px;
         color: #1B1FA1;
     }
-
 
     .this
     {
@@ -586,8 +589,8 @@ center
         position: absolute;
         width: 610px;
         height: 500px;
-        left: 988px;
-        top: 800px;   
+        left: 750px;
+        top: 500px;   
         background: #D9D9D9;
     }
 
