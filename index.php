@@ -176,8 +176,8 @@
         </div>
               <div class="contact_item">
                 ТЕЛЕФОН:<br>
-                <p style="height:50px;"> 8 (812) 111-22-33<br>
-                8 (812) 111-22-33</p>
+                <p style="height:50px;">+7 (982) 826-31-23<br>
+                +7 (982) 826-31-23</p>
               </div>
                       <div class="contact_item">
                         ВРЕМЯ РАБОТЫ:<br>
