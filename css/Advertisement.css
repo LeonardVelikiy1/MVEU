@@ -45,7 +45,7 @@ footer
     width: 368px;
     height: 51px;
     left: 810px;
-    top: 314px;
+    top: 214px;
     font-family: 'LackRegular';
     font-style: normal;
     font-weight: 700;
@@ -56,10 +56,10 @@ footer
 
 .menu-buttons
 {
-    width: 650px;
+    width: 775px;
     height: 66px;
-    left: 310px;
-    top: 480px;
+    left: 430px;
+    top: 440px;
     position: absolute;
     right: 17.63%;
     bottom: 22.73%;
