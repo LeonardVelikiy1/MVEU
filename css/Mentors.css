@@ -124,7 +124,7 @@ footer
     width: 500px;
     height: 51px;
     left: 820px;
-    top: 256px;
+    top: 120px;
     font-family: 'LackRegular';
     font-style: normal;
     font-weight: 700;
@@ -138,8 +138,8 @@ footer
     position: absolute;
     width: 925px;
     height: 25px;
-    left: 720px;
-    top: 332px;
+    left: 680px;
+    top: 360px;
     font-family: 'LackRegular';
     font-style: normal;
     font-weight: 400;

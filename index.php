@@ -36,7 +36,7 @@
           <span>СТУДЕНЧЕСКАЯ<br> ФИРМА</span>
       <p>Колледж креативных индустрий</p>
       <form action="">
-              <button style="position: relative; bottom: 4%; right: 1%; width: 419px;" class="menu_button"> <a href="pages/order_form.php" style="text-decoration: none; color:aliceblue; padding-left: 52px; padding-right: 52px; padding-top: 16px; padding-bottom: 15px;">Задайте нам вопрос</a></button>
+              <button style="position: relative; bottom: 4%; right: 1%; width: 419px;" class="menu_button"> <a href="pages/order_form.php" style="text-decoration: none; color:aliceblue; padding-left: 50px; padding-right: 50px; padding-top: 16px; padding-bottom: 15px;">Задайте нам вопрос</a></button>
       </form>
     </div>
   </div>
@@ -47,9 +47,9 @@
   <div class="portfolio">
     <h2> Наше портфолио</h2>
     <div class="portfolio_a">
-    <a style="width: 105px; height: 28px;"> Дизайн </a>
-    <a> Разработка сайтов и  приложений</a>
-    <a style="width: 105px; height: 28px;"> Реклама</a>
+      <p>Дизайн</p>
+      <p>Разработка сайтов и  приложений</p>
+      <p>Реклама</p>
     </div>
       <section class="splide" aria-label="Splide Basic HTML Example">
           <div class="splide__arrows">
@@ -122,14 +122,14 @@
           <!-- <span style=" font-family: OswaldBold;color:#F4914E;font-size:96px;">“</span> -->
           <p>Заказывали фотосъемку для своего маленького интернет-магазина. Сделали быстро, качественно, обязательно обратимся еще, приятно, когда к работе подходят с такой ответственностью. Ребятам успехов! .</p>
         </div>
-        <div class="review_name">Иван Кощеев</div>
+        <div class="review_name">Кощеев Иван</div>
       </div>
       <div class="review_item">
         <div class="review">
           <!-- <span style=" font-family: OswaldBold;color:#F4914E;font-size:96px;">“</span> -->
           <p>Отличная идея доверить студентам простые задачи - и ребята портфолио набирают и нам, заказчикам выгодно. Спасибо всем, кто трудился, остался доволен и сайтом и наполнением</p>
         </div>
-        <div class="review_name">Цолак Григорян</div>
+        <div class="review_name">Григорян Цолак</div>
       </div>
       </div>
       <form style="height:66px;display: flex;" action="">
@@ -176,8 +176,8 @@
         </div>
               <div class="contact_item">
                 ТЕЛЕФОН:<br>
-                <p style="height:50px;"> 8 (812) 111-22-33<br>
-                8 (812) 111-22-33</p>
+                <p style="height:50px;">+7 (982) 826-31-23<br>
+                +7 (982) 826-31-23</p>
               </div>
                       <div class="contact_item">
                         ВРЕМЯ РАБОТЫ:<br>
