@@ -7,14 +7,14 @@ html
 
 .wrapper
 {
-    max-width: 1885px;
+    max-width: 1890px;
     margin: auto;
 }
 
 .header
 {
     height: 155px;
-    max-width: 1885px;
+    max-width: 1890px;
     margin: auto;
 }
 
@@ -32,7 +32,7 @@ html
 {
     display: flex;
     height: 155px;
-    max-width: 1885px;
+    max-width: 1890px;
     margin-left: 200px;
 }
 
@@ -203,13 +203,13 @@ html
 
 footer
 {
-    max-width: 1885px;
+    max-width: 1890px;
     height: 362px;
     margin-top: 700px;
 }
 .upper_footer
 {
-    max-width: 1885px;
+    max-width: 1890px;
     height: 321px;
     background-color: #ffffff;
 }
