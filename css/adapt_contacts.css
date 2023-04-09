@@ -1,20 +1,25 @@
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1366px) {
+    body 
+    {
+        width: 1366px;
+    }
+    
     .wrapper
     {
-        max-width: 1200px;
+        width: 1366px;
+        height: max-content;
     }
 
     .header
     {
         height: 155px;
-        max-width: 1200px;
+        width: 1366px;
     }
 
     .logo
     {
         width: 60px;
         height: 60px;
-        margin-left: 40px;
         margin-top: 14px;
         position: relative;
     }
@@ -23,7 +28,8 @@
     {
         display: flex;
         height: 155px;
-        max-width: 1200px;
+        width: 1366px;
+        margin-left: 0px;
     }
 
     .menu > div:nth-child(1),
@@ -43,7 +49,7 @@
 
     .menu > div:nth-child(2)
     {
-        width: 870px;
+        width: 1036px;
         margin-left: 0px;
         background-image: url("../images/menu.png");
         background-repeat: no-repeat;
@@ -107,45 +113,84 @@
         margin-right: 100px;
     }
 
+
+    .content
+    {
+        width: 1000px;
+        height: max-content;
+        margin-left: 100px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .content > div
+    {
+        width: 1000px;
+        height: 300px;
+        margin-top: 50px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .content > div > div 
+    {  
+        margin-top: 50px;
+        font-family: "Source Sans Pro Light";
+        font-size: 14pt;
+
+    }
+
+    .content-m-elements
+    {
+        font-family: "Source Sans Pro";
+        font-size: 28pt;
+        color: #000000;
+    }
+
+    .content > div > div > a > img
+    {
+        margin-top: 15px;
+        margin-right: 10px;
+    }
+
     footer
     {
-        max-width: 1200px;
+        width: 1366px;
         height: 362px;
-        margin-top: 900px;
     }
     .upper_footer
     {
-        max-width: 1200px;
+        width: 1366px;
         height: 321px;
         background-color: #ffffff;
     }
     .footer_info{
-        width: 1110px;
+        width: 900px;
         height: 193px;
         font-family: "NeutralFace";
-        font-size: 60px;
+        font-size: 63px;
         padding-top: 31px;
         display: flex;
         justify-content: center;
     }
-
+    
     .footer_logo
     {
-        font-family: NeutralFace;
-        font-size: 60px;
-        margin-left: 100px;
+        font-family: "NeutralFace";
+        font-size: 63px;
     }
     .footer_logo>p {
         margin-top: 0px;
         font-family: "NeutralFaceReg";
-        font-size: 34px;
+        font-size: 38px;
     }
     .footer_row
     {
         font-size: 16px;
         display: flex;
         flex-direction: column;
-        margin-left: 200px;
+        margin-left: 259px;
     }
     .footer_row>a
     {

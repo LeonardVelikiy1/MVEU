@@ -1,3 +1,8 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
 
 html
 {
@@ -5,16 +10,23 @@ html
     margin: auto;
 }
 
+body
+{
+    width: 1920px;
+    margin: auto;
+}
+
 .wrapper
 {
-    max-width: 1920px;
+    width: 1920px;
+    height: max-content;
     margin: auto;
 }
 
 .header
 {
     height: 155px;
-    max-width: 1920px;
+    width: 1920px;
     margin: auto;
 }
 
@@ -22,7 +34,6 @@ html
 {
     width: 60px;
     height: 60px;
-    margin-left: 40px;
     margin-top: 14px;
     position: relative;
 }
@@ -32,8 +43,8 @@ html
 {
     display: flex;
     height: 155px;
-    max-width: 1920px;
-    margin-left: 200px;
+    width: 1920px;
+    margin-left: 100px;
 }
 
 .menu > div:nth-child(1),
@@ -203,13 +214,13 @@ html
 
 footer
 {
-    max-width: 1920px;
+    width: 1920px;
     height: 362px;
     margin-top: 700px;
 }
 .upper_footer
 {
-    max-width: 1920px;
+    width: 1920px;
     height: 321px;
     background-color: #ffffff;
 }
@@ -265,3 +276,211 @@ footer
 }
 
 
+@media only screen and (max-width: 1366px) {
+    body 
+    {
+        width: 1366px;
+    }
+    
+    .wrapper
+    {
+        width: 1366px;
+        height: max-content;
+    }
+
+    .header
+    {
+        height: 155px;
+        width: 1366px;
+    }
+
+    .logo
+    {
+        width: 60px;
+        height: 60px;
+        margin-top: 14px;
+        position: relative;
+    }
+
+    .menu
+    {
+        display: flex;
+        height: 155px;
+        width: 1366px;
+        margin-left: 0px;
+    }
+
+    .menu > div:nth-child(1),
+    .menu > div:nth-child(2)
+    {
+        height: 155px;
+    }
+
+    .menu > div:nth-child(1)
+    {
+        width: 330px;
+        font-family:"NeutralFace";
+        font-size: 60px;
+        color:#1B1FA1;
+        margin-top: 40px;
+        margin-left: 100px;
+    }
+
+    .menu > div:nth-child(2)
+    {
+        width: 1036px;
+        margin-left: 0px;
+        background-image: url("../images/menu.png");
+        background-repeat: no-repeat;
+        padding-top: 60px;
+    }
+
+    .menu > div:nth-child(2) > a:nth-child(1)
+    {
+        margin-left: 60px;
+    }
+
+    .menu > div:nth-child(2) > button
+    {
+        margin-left: 10px;
+        margin-right: 5px;
+
+    }
+
+    .menu > div:nth-child(2) > a
+    {
+        font-family:"LackRegular";
+        text-decoration: none;
+        color: white;
+        font-size: 22px;
+        margin-left: 20px;
+    }
+
+    .menu_button
+    {
+        width: 230px;
+        height: 69px;
+        border: solid 2px #FFB887;
+        font-family:"LackRegular";
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        position: relative;
+        background-color:transparent;
+            transition-duration: .5s;
+    }
+
+    .menu_button:hover
+    {
+        background-color: #FF9C5A;
+    }
+
+    .menu > div:nth-child(2)
+    {
+        font-family:"LackRegular";
+        text-decoration: none;
+        color: white;
+        font-size: 22px;
+    }
+
+    .content
+    {
+        width: 1000px;
+        height: max-content;
+        margin-left: 150px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .content > div
+    {
+        width: 1000px;
+        height: 300px;
+        margin-top: 50px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .content > div > div 
+    {  
+        margin-top: 50px;
+        font-family: "Source Sans Pro Light";
+        font-size: 14pt;
+
+    }
+
+    .content-m-elements
+    {
+        font-family: "Source Sans Pro";
+        font-size: 28pt;
+        color: #000000;
+    }
+
+    .content > div > div > a > img
+    {
+        margin-top: 15px;
+        margin-right: 10px;
+    }
+
+    footer
+    {
+        width: 1366px;
+        height: 362px;
+        margin-top: 200px;
+    }
+    .upper_footer
+    {
+        width: 1366px;
+        height: 321px;
+        background-color: #ffffff;
+    }
+    .footer_info{
+        width: 900px;
+        height: 193px;
+        font-family: "NeutralFace";
+        font-size: 63px;
+        padding-top: 31px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .footer_logo
+    {
+        font-family: "NeutralFace";
+        font-size: 63px;
+    }
+    .footer_logo>p {
+        margin-top: 0px;
+        font-family: "NeutralFaceReg";
+        font-size: 38px;
+    }
+    .footer_row
+    {
+        font-size: 16px;
+        display: flex;
+        flex-direction: column;
+        margin-left: 259px;
+    }
+    .footer_row>a
+    {
+        margin-top: 30px;
+        font-family: "RobotoRegular";
+        text-decoration: none;
+        color: #000000;
+    }
+    .copyright {
+        height: 41px;
+        background-color: #1B1FA1;
+        color: #ffffff;
+        display:flex;
+        padding-bottom: 12px;
+        font-family: "ManropeRegular";
+    }
+    .copyright>p
+    {
+        display: flex;
+        width:322px;
+        margin-left: 136px;
+    }
+}
