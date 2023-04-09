@@ -19,7 +19,7 @@
 
 main
 {
-    width: 1920px;
+    width: 1885px;
     height: 300px;
 }  
 
@@ -45,7 +45,7 @@ main
 
 footer
 {
-    width: 1920px;
+    width: 1885px;
     height: 0px;
     position: absolute;
     top: 2900px;
@@ -61,7 +61,7 @@ footer
 
 .upper_footer
 {
-    width: 1920px;
+    width: 1885px;
     height: 321px;
     background-color: #ffffff;
 }

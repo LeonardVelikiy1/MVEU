@@ -13,13 +13,13 @@
     height: 0px;
     background-repeat: no-repeat;
     background-position: right;
-    width: 1920px;
+    width: 1885px;
     height: 2413px;
 } */
 
 main
 {
-    width: 1920px;
+    width: 1885px;
     height: 2385px;
 }
 
@@ -40,7 +40,7 @@ main
 
 footer
 {
-    width: 1920px;
+    width: 1885px;
     height: 0px;
     position: absolute;
     top: 2360px;
@@ -403,7 +403,7 @@ footer
 
 .upper_footer
 {
-    width: 1920px;
+    width: 1885px;
     height: 321px;
     background-color: #ffffff;
 }

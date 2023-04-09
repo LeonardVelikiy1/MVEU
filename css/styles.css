@@ -27,16 +27,16 @@ html
 }
 .wrapper
 {
-width: 1920px;
+width: 1885px;
 }
 .container
 {
-    width: 1920px;
+    width: 1885px;
     display: flex;
     flex-direction: column;
 }
 .head_wrapper{
-    width: 1920px;
+    width: 1885px;
     background-position: 0px 74px;
     /* background-size: 1085px 857px; */
     background-image: url("../images/banner.png");    
@@ -145,7 +145,7 @@ a:hover
 }
 main
 {
-    width: 1920px;
+    width: 1885px;
     height: 5630px;
 }
 .portfolio
@@ -254,7 +254,7 @@ margin-top: 50px;
 {
     display: flex;
     color: white;
-    width:1920px;
+    width:1885px;
     height: 222px;
     background-color: #F4914E;
     margin-top: 60px;
@@ -433,12 +433,12 @@ font-family: "RobotoMedium";
 }
 footer
 {
-width: 1920px;
+width: 1885px;
 height: 362px;
 }
 .upper_footer
 {
-    width: 1920px;
+    width: 1885px;
     height: 321px;
     background-color: #ffffff;
 }
