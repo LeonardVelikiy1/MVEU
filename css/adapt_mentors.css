@@ -91,7 +91,7 @@
         width: 500px;
         height: 51px;
         left: 450px;
-        top: 150px;
+        top: 130px;
         /* font-family: 'Neutral Face'; */
         font-style: normal;
         font-weight: 700;
@@ -106,7 +106,7 @@
         width: 925px;
         height: 25px;
         left: 360px;
-        top: 240px;
+        top: 210px;
         /* font-family: 'Neutral Face'; */
         font-style: normal;
         font-weight: 400;
@@ -237,7 +237,7 @@
     .Tishchenko-Vladislav-Anatolyevich
     {
         position: absolute;
-        width: auto;
+        width: 600px;
         height: 600px;
         left: 100px;
         top: 1970px;
@@ -289,9 +289,9 @@
     .shklyaev-Alexey-Alexandrovich
     {
         position: absolute;
-        width: auto;
+        width: 600px;
         height: 600px;
-        left: 800px;
+        left: 750px;
         top: 2705px;
     }
 
