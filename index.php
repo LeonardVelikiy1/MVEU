@@ -186,7 +186,7 @@
                       </div>
                               <div class="contact_item">
                               E-MAIL:<br>
-                                <p style="height:50px;"><a style="color:#F4914E; text-decoration: none;" href="mailto:info@MVEU.RU"> info@MVEU.RU </a>  <br></p>
+                                <p style="height:50px;"><a style="color:#F4914E; text-decoration: none;" href="mailto:info@MVEU.RU"> firma@mveu.ru </a>  <br></p>
                               </div>
                               
       </div>
