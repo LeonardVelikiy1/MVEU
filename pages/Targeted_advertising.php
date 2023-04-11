@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="../css/fonts.css">
   <link rel="stylesheet" href="../css/splide.min.css">
   <link rel="stylesheet" href="../css/order_form.css">
-  <link rel="stylesheet" href="../css/Targeted-advertising.css">
+  <link rel="stylesheet" href="../css/targeted-advertising.css">
   <link rel="stylesheet" href="../css/adapt_portfolio.css">
     <title>Студенческая фирма</title>
 </head>

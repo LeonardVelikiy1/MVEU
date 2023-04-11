@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="../css/fonts.css">
   <link rel="stylesheet" href="../css/splide.min.css">
   <link rel="stylesheet" href="../css/order_form.css">
-  <link rel="stylesheet" href="../css/Souvenir-products.css">
+  <link rel="stylesheet" href="../css/souvenir-products.css">
   <link rel="stylesheet" href="../css/adapt_portfolio.css">
     <title>Студенческая фирма</title>
 </head>
