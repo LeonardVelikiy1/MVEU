@@ -120,7 +120,7 @@
       <div class="review_item">
         <div class="review">
           <!-- <span style=" font-family: OswaldBold;color:#F4914E;font-size:96px;">“</span> -->
-          <p>Заказывали фотосъемку для своего маленького интернет-магазина. Сделали быстро, качественно, обязательно обратимся еще, приятно, когда к работе подходят с такой ответственностью. Ребятам успехов! .</p>
+          <p>Заказывали фотосъемку для своего маленького интернет-магазина. Сделали быстро, качественно, обязательно обратимся еще, приятно, когда к работе подходят с такой ответственностью. Ребятам успехов!</p>
         </div>
         <div class="review_name">Кощеев Иван</div>
       </div>
@@ -176,8 +176,7 @@
         </div>
               <div class="contact_item">
                 ТЕЛЕФОН:<br>
-                <p style="height:50px;">+7 (982) 826-31-23<br>
-                +7 (982) 826-31-23</p>
+                <p style="height:50px;">+7 (982) 826-31-23<br></p>
               </div>
                       <div class="contact_item">
                         ВРЕМЯ РАБОТЫ:<br>
@@ -186,7 +185,7 @@
                       </div>
                               <div class="contact_item">
                               E-MAIL:<br>
-                                <p style="height:50px;"><a style="color:#F4914E; text-decoration: none;" href="mailto:info@MVEU.RU"> firma@mveu.ru </a>  <br></p>
+                                <p style="height:50px;"><a style="color:#F4914E; text-decoration: none;" href="mailto:info@MVEU.RU"> firma@mveu.ru</a></p>
                               </div>
                               
       </div>
@@ -208,9 +207,9 @@
         </div>
         <div class="footer_row">
           Услуги
-          <a href="pages/Design.html">Дизайн</a>
-          <a href="pages/Web-development.html">Веб-разработка</a>
-          <a href="pages/Advertisement.html">Реклама</a>
+          <a href="pages/design.html">Дизайн</a>
+          <a href="pages/web-development.html">Веб-разработка</a>
+          <a href="pages/advertisement.html">Реклама</a>
           <a href=""></a>
         </div>
       </div>

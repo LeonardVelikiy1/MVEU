@@ -161,7 +161,7 @@ footer
 }
 
 
-.Design
+.design
 {
     text-decoration: none;
     color: #000000;
@@ -169,43 +169,43 @@ footer
     background-color: purple;
 }
 
-.Design > center
+.design > center
 {
     color: #000000;
 }
 
-.Advertisement
+.advertisement
 {
     text-decoration: none;
     color: #000000;
     font-family: system-ui;
 }
 
-.Advertisement > center
+.advertisement > center
 {
     color: #000000;
 }
 
-.Web-development
+.web-development
 {   
     text-decoration: none;
     color: #000000;
     font-family: system-ui;
 }
 
-.Web-development > center
+.web-development > center
 {
     color: #000000;
 }
 
-.Design
+.design
 {
     text-decoration: none;
     color: #000000;
     font-family: system-ui;
 }
 
-.Design > center
+.design > center
 {
     color: #000000;
 }
@@ -232,8 +232,10 @@ footer
 .Picture > img
 {
     position: absolute;
-    width: 674px;
-    height: 588px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
     cursor: pointer;
 }
 
@@ -279,8 +281,10 @@ footer
 .Picture2 > img
 {
     position: absolute;
-    width: 674px;
-    height: 588px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
     cursor: pointer;
 }
 
@@ -326,8 +330,10 @@ footer
 .Picture3 > img
 {
     position: absolute;
-    width: 674px;
-    height: 588px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
     cursor: pointer;
 }
 
@@ -373,8 +379,10 @@ footer
 .Picture4 > img
 {
     position: absolute;
-    width: 674px;
-    height: 588px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
     cursor: pointer;
 }
 

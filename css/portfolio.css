@@ -155,38 +155,38 @@ footer
     color: #000000;
 }
 
-.Advertisement
+.advertisement
 {
     text-decoration: none;
     color: #000000;
     font-family: system-ui;
 }
 
-.Advertisement > center
+.advertisement > center
 {
     color: #000000;
 }
 
-.Web-development
+.web-development
 {   
     text-decoration: none;
     color: #000000;
     font-family: system-ui;
 }
 
-.Web-development > center
+.web-development > center
 {
     color: #000000;
 }
 
-.Design
+.design
 {
     text-decoration: none;
     color: #000000;
     font-family: system-ui;
 }
 
-.Design > center
+.design > center
 {
     color: #000000;
 }
@@ -213,8 +213,10 @@ footer
 .Picture > img
 {
     position: absolute;
-    width: 674px;
-    height: 588px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
 }
 
 .Picture > a
@@ -259,8 +261,10 @@ footer
 .Picture2 > img
 {
     position: absolute;
-    width: 674px;
-    height: 588px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
 }
 
 .Picture2 > a
@@ -305,8 +309,10 @@ footer
 .Picture3 > img
 {
     position: absolute;
-    width: 674px;
-    height: 588px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
 }
 
 .Picture3 > a
@@ -351,8 +357,10 @@ footer
 .Picture4 > img
 {
     position: absolute;
-    width: 674px;
-    height: 588px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
 }
 
 .Picture4 > a
@@ -397,8 +405,10 @@ footer
 .Picture5 > img
 {
     position: absolute;
-    width: 674px;
-    height: 588px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
 }
 
 .Picture5 > a
@@ -443,8 +453,10 @@ footer
 .Picture6 > img
 {
     position: absolute;
-    width: 674px;
-    height: 588px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
 }
 
 .Picture6 > a
@@ -484,14 +496,16 @@ footer
     position: absolute;
     width: 674px;
     height: 612px;
-    background-color: #afafaf;
+    background-color: #ffffff;
 }
 
 .Picture7 > img
 {
     position: absolute;
-    width: 674px;
-    height: 613px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
 }
 
 .Picture7 > a
@@ -531,14 +545,16 @@ footer
     position: absolute;
     width: 674px;
     height: 612px;
-    background-color: #afafaf;
+    background-color: #ffffff;
 }
 
 .Picture8 > img
 {
     position: absolute;
-    width: 674px;
-    height: 612px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
 }
 
 .Picture8 > a
@@ -583,8 +599,10 @@ footer
 .Picture9 > img
 {
     position: absolute;
-    width: 674px;
-    height: 588px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
 }
 
 .Picture9 > a
@@ -624,14 +642,16 @@ footer
     position: absolute;
     width: 674px;
     height: 612px;
-    background-color: #afafaf;
+    background-color: #ffffff;
 }
 
 .Picture10 > img
 {
     position: absolute;
-    width: 674px;
-    height: 612px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
 }
 
 .Picture10 > a
@@ -671,14 +691,16 @@ footer
     position: absolute;
     width: 674px;
     height: 612px;
-    background-color: #afafaf;
+    background-color: #ffffff;
 }
 
 .Picture11 > img
 {
     position: absolute;
-    width: 674px;
-    height: 613px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
 }
 
 .Picture11 > a
@@ -723,8 +745,10 @@ footer
 .Picture12 > img
 {
     position: absolute;
-    width: 674px;
-    height: 588px;
+    width: 640px;
+    height: 578px;
+    margin-top: 10px;
+    margin-left: 17px;
 }
 
 .Picture12 > a

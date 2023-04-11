@@ -304,7 +304,7 @@ footer
     height: 145.95px;
     margin-top: 80px;
     margin-left: auto;
-    font-family: 'Roboto';
+    font-family: auto;
     font-style: normal;
     font-size: 25px;
     line-height: 29px;
@@ -318,7 +318,7 @@ footer
     height: 548px;
     left: 326px;
     top: 646px;
-    font-family: 'Roboto';
+    font-family: auto;
     font-style: normal;
     font-weight: 400;
     font-size: 25px;

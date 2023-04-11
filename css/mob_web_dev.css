@@ -228,7 +228,7 @@ footer
     height: 217.95px;
     margin-top: auto;
     margin-left: auto;
-    font-family: 'Roboto';
+    font-family: auto;
     font-style: normal;
     font-size: 25px;
     line-height: 29px;
@@ -238,7 +238,7 @@ footer
 
 .description
 {
-    width: 522.6px;
+    width: 540.6px;
     height: 41.87px;
     margin-top: auto;
     margin-left: 0px;
@@ -256,10 +256,9 @@ footer
     height: 569px;
     left: 322.99px;
     top: 748px;
-    font-family: 'Roboto';
+    font-family: auto;
     font-style: normal;
     font-weight: 400;
-   
     font-size: 25px;
     line-height: 29px;
     text-align: justify;
@@ -273,15 +272,14 @@ footer
     height: 1097px;
     left: 988px;
     top: 398px;   
-    background: #D9D9D9;
 }
 
 .image
 {
     width: 610px;
-    height: 1097px;
+    height: 580px;
     left: 988px;
-    top: 398px;
+    margin-top: 188px;
 }
 .container
 {
